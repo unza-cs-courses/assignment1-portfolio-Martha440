@@ -127,9 +127,9 @@ Before submitting, verify:
 
 ## Your Information
 
-**Name:** [Your Name]
-**Student ID:** [Your Student ID]
-**Design Theme:** [Describe your portfolio theme/style]
+**Name:** [Nyambe Martha]
+**Student ID:** [2022020855]
+**Design Theme:** [modern tecg minimalist, clours :deep blue(primary),light gray-background ,bright blue as the accent and dark gray as the text]
 
 ### CSS Techniques Used
 - [ ] CSS Custom Properties
@@ -139,7 +139,7 @@ Before submitting, verify:
 - [ ] Other: _______________
 
 ### Challenges & Solutions
-[Describe any challenges you faced and how you solved them]
+[The challenges i faced were: firstly images were not displaying properly ,project and profile images were streched or mislighned-i fixed the issue by correcting the code (object-fit and set the width and length.secondly flex and grid box was not applying-layouts were not being displayed correctly,i fixed them by correcting class names and confirmed html link code that had a mistake.)]]
 
 ### Credits
 [List any images, fonts, or resources used with attribution]
